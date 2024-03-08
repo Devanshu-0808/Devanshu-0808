@@ -16,5 +16,15 @@
 
 <img align ="right" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300">
 <br><br>
+****************************
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
+
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devanshu-0808&show_icons=true&locale=en&layout=compact" alt="devanshu-0808" /></p>
